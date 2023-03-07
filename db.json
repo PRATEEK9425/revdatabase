@@ -1,16 +1,20 @@
 {
-    "users": [
+    "usersLogin": [
       {
         "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
+        "Username": "Gertrudis Tatterton",
+        "Password": 18,
         "email": "gtatterton0@ehow.com"
-      },
-      {
-        "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
       }
+      
+    ],
+    
+    "user": [
+      {
+        "id": 1,
+      "username":"Rahul",
+      "TasksPerUser":[{"task1":"Laern redux"}]
+      }
+      
     ]
 }
