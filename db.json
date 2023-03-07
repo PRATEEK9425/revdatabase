@@ -13,7 +13,7 @@
       {
         "id": 1,
       "username":"Rahul",
-      "TasksPerUser":[{"task1":"Laern redux"}]
+     "task":"Learn redux"
       }
       
     ]
